@@ -10,6 +10,10 @@ An AI-powered system for analyzing Google Play Store reviews and generating tren
 - **Trend Analysis**: Generates reports showing topic frequency trends over 30-day rolling windows
 - **Automatic Topic Discovery**: Discovers new topics beyond seed topics as reviews are processed
 
+## Output
+<img width="3824" height="2262" alt="image" src="https://github.com/user-attachments/assets/443b737f-5179-41c6-811f-a068e0fbdfb0" />
+
+
 ## Installation
 
 1. Install dependencies:
